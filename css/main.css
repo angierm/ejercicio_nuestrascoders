@@ -1,0 +1,36 @@
+body {
+
+    margin: 8px;
+    display: block;
+
+}
+#galeria{
+   width: 600px;
+
+}
+#galeria img {
+  width: 150px;
+  height: 100px;
+  position: float;
+
+
+  margin: 10px;
+  padding: 9px;
+  border: 1px solid #CCC;
+}
+figure {
+  margin: 0;
+  display: inline-block;
+  position: relative;
+  border: 1px solid white;
+
+}
+figcaption {
+
+  position: absolute;
+  left: 0;
+  top: 0;
+  color:white;
+  width: 75%;
+  padding: 50% 5% 5% 27%;
+}
